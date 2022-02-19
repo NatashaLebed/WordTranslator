@@ -34,13 +34,9 @@ def main():
         #print(f'{n + 1}. {languages[n]}')
     parser = argparse.ArgumentParser()
     parser.add_argument("lng_from",
-                        help="Choose the language from which to translate from - "
-                             "['arabic', 'german', 'english', 'spanish', 'french', 'hebrew', 'japanese', "
-                             "'dutch', 'polish', 'portuguese', 'romanian', 'russian', 'turkish']")
+                        help=f"Choose the language from which to translate from - {languages}")
     parser.add_argument("lng_to",
-                        help="Choose the language from which to translate from - "
-                             "['arabic', 'german', 'english', 'spanish', 'french', 'hebrew', 'japanese', "
-                             "'dutch', 'polish', 'portuguese', 'romanian', 'russian', 'turkish']")
+                        help=f"Choose the language from which to translate from - {languages}")
     parser.add_argument("user_word")
     args = parser.parse_args()
 
