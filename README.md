@@ -1,0 +1,2 @@
+# WordTranslator
+JetBrain Study Project
