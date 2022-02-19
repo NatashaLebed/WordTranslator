@@ -1,0 +1,24 @@
+
+Japanese Translations:
+ブック
+予約
+帳
+書
+書籍
+
+Japanese Examples:
+Bargiacchi's book reflects this dual nature.
+Bargiacchiの本は、この二重の性質を反映し.
+
+I've not found a bad O'Reilly book yet.
+私はまだ　O｀Reilly　でダメな本を見たことがありません。
+
+Briefing book pages provide %s data analysis features.
+ブリーフィング　ブック　ページでは、%s　データ分析機能を使用できます。
+
+The briefing book is not locked.
+ブリーフィング　ブックはロックされていません。
+
+It is recommended to book Fjærlandsfjord fjord cruise tickets in advance.
+Fjærlandsfjordのフィヨルドクルーズチケットは前もって予約することをお奨めします。
+
